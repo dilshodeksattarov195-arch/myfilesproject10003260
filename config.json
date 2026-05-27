@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicesecrypt",
+        "uuid": 5352920,
+        "checksum": "z3remd"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
